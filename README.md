@@ -1,2 +1,2 @@
-# Credit-_Card_Financial-_Dashboard
+# Credit-_Card_Financial_Dashboard
 Power BI dashboard
